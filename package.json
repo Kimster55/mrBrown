@@ -1,7 +1,7 @@
 {
-  "name": "programming-quiz",
+  "name": "mrbrown",
   "version": "1.0.0",
-  "description": "Hello! Glad to see you in our programming quiz. \nTo start playing read the instructions at the top of the browser window. Enter the first house and start writing code to complete the level. If you got stuck - click the green help button at the top of each level.\nGood luck!",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
